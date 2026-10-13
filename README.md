@@ -13,9 +13,9 @@ I build data and ML systems end to end: from warehouses and ETL pipelines to mod
 ## 🔭 What I'm up to
 
 - 🧑‍💻 Intern, **AI Engineering** at Lothgha
-- 📊 Intern, **Data & Analytics** at Ejada Systems
+- 📊 Intern, **Data & Analytics** at Ejada
 - 🌍 Contributor to [**pgmpy**](https://github.com/pgmpy/pgmpy), the Python library for probabilistic graphical models
-- 🎓 Building my graduation project and sharpening my ML and backend skills
+- 🎓 Building real projects and sharpening my AI&ML skills.
 
 ## 🛠 Tech Stack
 
@@ -63,7 +63,8 @@ I build data and ML systems end to end: from warehouses and ETL pipelines to mod
 
 ## 💬 Ask me about
 
-Python · C++ · Data Structures & Algorithms · SQL · Machine Learning · Networking
+Strong in: Python, SQL, C++, algorithms
+Exploring: AI engineering, LLM apps, Arabic NLP
 
 ## 🤝 Let's collaborate
 
